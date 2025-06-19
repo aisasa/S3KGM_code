@@ -1,0 +1,2 @@
+S3KGM (Short, Simple, Semantic Knowledge Graphs Model) is a model for the semantic representation of texts, specifically sentences. 
+This representation is carried out in the same lexical-semantic space of atomic elements defined by a specific set of static embeddings, and is given by a set of these vectors (unlike the usual representations by means of a single vector) that correspond to the different facts that can be extracted from the sentence.
